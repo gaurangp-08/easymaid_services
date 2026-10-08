@@ -2,7 +2,7 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Laravel dashboard starter for Easymaid Service, with calendar, charts, forms, and reusable admin UI components.",
     "keywords": [
         "laravel",
         "framework"
